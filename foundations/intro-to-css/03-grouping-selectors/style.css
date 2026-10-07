@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.sim.nao{
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.sim{
+    background-color: black;
+    color: white;
+}
+
+.nao{
+    background-color: yellow;
+    color: black;
+}
